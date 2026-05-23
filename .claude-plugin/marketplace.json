@@ -10,8 +10,8 @@
       "name": "ui-color-palette",
       "displayName": "UI Color Palette",
       "source": {
-        "source": "github",
-        "repo": "a-ng-d/claude-ui-color-palette"
+        "source": "url",
+        "url": "https://github.com/a-ng-d/claude-ui-color-palette"
       },
       "description": "Design color palettes, audit contrast, generate code, and sync to Figma, Penpot, Sketch, and Framer — powered by the UI Color Palette API",
       "author": {
