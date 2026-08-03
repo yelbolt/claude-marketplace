@@ -27,6 +27,28 @@
         "wcag",
         "tokens"
       ]
+    },
+    {
+      "name": "unoff",
+      "displayName": "Unoff",
+      "source": {
+        "source": "github",
+        "repo": "yelbolt/unoff-claude-plugin"
+      },
+      "description": "Build, debug, and extend Figma and Penpot plugins on the unoff stack — Preact UI, Canvas bridge, @unoff/ui, Nanostores, Tolgee, Vite — with layer-specialized agents and the unoff skill library",
+      "category": "dev",
+      "tags": [
+        "unoff",
+        "figma",
+        "penpot",
+        "plugin",
+        "preact",
+        "nanostores",
+        "tolgee",
+        "vite",
+        "design-tools",
+        "canvas-api"
+      ]
     }
   ]
 }
